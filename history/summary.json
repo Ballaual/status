@@ -77,18 +77,18 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "98.80%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 118,
     "timeDay": 118,
     "timeWeek": 118,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-06-22": 0
+      "2023-06-22": 4
     }
   },
   {
