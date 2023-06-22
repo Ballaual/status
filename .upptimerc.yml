@@ -47,26 +47,26 @@ status-website:
 i18n:
   activeIncidents: Aktuelle Ereignisse
   allSystemsOperational: Alle Systeme sind funktionsfähig
-  incidentReport: "Incident #$NUMBER report →"
+  incidentReport: "Ereignis $NUMBER Details →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Ereignis $NUMBER Details
   incidentDetails: Ereignisdetails
   incidentFixed: Fixed
   incidentOngoing: Aktiv
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentViewOnGitHub: View and Subscribe on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentOpenedAt: Begonnen am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Auf GitHub anzeigen
+  incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Ereignissen
-  pastIncidents: Past Incidents
+  pastIncidents: Vergangene Ereignisse
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: Live Status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
+  overallUptime: "Durchschnittlich online: $UPTIME"
+  overallUptimeTitle: Durchschnittlich online
+  averageResponseTime: "Durchschnittlicher Ping: $TIMEms"
+  averageResponseTimeTitle: Durchschnittlicher Ping
+  sevelDayResponseTime: 7-Tage Ping
+  responseTimeMs: Ping (ms)
   up: Online
   down: Offline
   degraded: Schlecht
@@ -90,12 +90,12 @@ i18n:
   errorIntro: An error occurred in trying to get the latest status details.
   errorText: You can try again in a few moments.
   errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
+  pastScheduledMaintenance: Vergangene planmäßige Wartungsarbeiten
+  scheduledMaintenance: Planmäßige Wartungsarbeiten
+  scheduledMaintenanceSummaryStarted: Begonnen am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt am $DATE für voraussichtlich $DURATION Minuten
+  startedAt: Begonnen am
+  startsAt: Beginnt am
   duration: Dauer
   durationMin: $DURATION Minuten
   incidentCompleted: Beendet
