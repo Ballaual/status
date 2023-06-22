@@ -48,7 +48,7 @@ i18n:
   activeIncidents: Aktuelle Ereignisse
   allSystemsOperational: Alle Systeme sind funktionsfähig
   incidentReport: "Ereignis #$NUMBER Details →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Kommentaren
   incidentTitle: Ereignis $NUMBER Details
   incidentDetails: Ereignisdetails
   incidentFixed: Behoben
