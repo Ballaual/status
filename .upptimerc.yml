@@ -13,10 +13,12 @@ sites:
     check: "tcp-ping"
     url: 88.198.15.44
     port: 7779
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/custom-icons/ark.png
   - name: Minecraft Server
     check: "tcp-ping"
     url: 88.198.15.44
     port: 25565
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/custom-icons/minecraft.png
     
 assignees:
   - Ballaual
