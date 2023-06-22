@@ -31,8 +31,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.ballaual.de
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Ballaual/status/master/assets/icon.svg
   name: Upptime
   theme: night
@@ -40,7 +40,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: https://ballaual.github.io/status
+      href: https://status.ballaual.de
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
