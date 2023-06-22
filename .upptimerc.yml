@@ -13,12 +13,12 @@ sites:
     check: "tcp-ping"
     url: 88.198.15.44
     port: 7779
-    icon: https://raw.githubusercontent.com/Ballaual/status/master/custom-icons/ark.png
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
   - name: Minecraft Server
     check: "tcp-ping"
     url: 88.198.15.44
     port: 25565
-    icon: https://raw.githubusercontent.com/Ballaual/status/master/custom-icons/minecraft.png
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png
     
 assignees:
   - Ballaual
@@ -28,8 +28,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Ballaual/status/master/assets/icon.svg
   name: Upptime
+  theme: night
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
