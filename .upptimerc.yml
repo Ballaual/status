@@ -49,7 +49,7 @@ i18n:
   allSystemsOperational: Alle Systeme sind funktionsfähig
   incidentReport: "Ereignis #$NUMBER Details →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Ereignis #$NUMBER Details
+  incidentTitle: Ereignis $NUMBER Details
   incidentDetails: Ereignisdetails
   incidentFixed: Behoben
   incidentOngoing: Aktiv
