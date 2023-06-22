@@ -19,6 +19,11 @@ sites:
     url: 88.198.15.44
     port: 25565
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png
+  - name: Teamspeak
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 10011
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
     
 assignees:
   - Ballaual
