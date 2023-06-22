@@ -34,10 +34,10 @@ status-website:
   cname: status.ballaual.de
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Ballaual/status/master/assets/icon.svg
-  name: Upptime
+  name: Status
   theme: night
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: https://status.ballaual.de
@@ -61,9 +61,9 @@ i18n:
   pastIncidents: Vergangene Ereignisse
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: Live Status
-  overallUptime: "Durchschnittlich online: $UPTIME"
-  overallUptimeTitle: Durchschnittlich online
-  averageResponseTime: "Durchschnittlicher Ping: $TIMEms"
+  overallUptime: "⌀ Online: $UPTIME"
+  overallUptimeTitle: Durchschnittlich Online
+  averageResponseTime: "⌀ Ping: $TIMEms"
   averageResponseTimeTitle: Durchschnittlicher Ping
   sevelDayResponseTime: 7-Tage Ping
   responseTimeMs: Ping (ms)
