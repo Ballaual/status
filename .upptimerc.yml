@@ -47,11 +47,11 @@ status-website:
 i18n:
   activeIncidents: Aktuelle Ereignisse
   allSystemsOperational: Alle Systeme sind funktionsfähig
-  incidentReport: "Ereignis $NUMBER Details →"
+  incidentReport: "Ereignis #$NUMBER Details →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Ereignis $NUMBER Details
+  incidentTitle: Ereignis #$NUMBER Details
   incidentDetails: Ereignisdetails
-  incidentFixed: Fixed
+  incidentFixed: Behoben
   incidentOngoing: Aktiv
   incidentOpenedAt: Begonnen am
   incidentClosedAt: Geschlossen am
@@ -104,7 +104,7 @@ i18n:
   duration7D: 7d
   duration30D: 30d
   duration1Y: 1y
-  durationAll: all
+  durationAll: Gesamt
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
