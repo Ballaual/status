@@ -73,7 +73,7 @@ i18n:
   ms: ms
   loading: Lädt
   navGitHub: GitHub
-  footer: This page is powered by [Upptime](https://upptime.js.org)
+  footer: Diese Seite wird von [Upptime](https://upptime.js.org) unterstützt
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
