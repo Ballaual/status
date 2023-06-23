@@ -74,15 +74,15 @@ i18n:
   pastIncidents: Behobene Ereignisse
   pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Kommentaren
   liveStatus: Live Status
-  overallUptime: "Durchschn. Online: $UPTIME"
+  overallUptime: "Online: $UPTIME"
   overallUptimeTitle: Durchschnittlich Online
-  averageResponseTime: "Durchschn. Ping: $TIMEms"
+  averageResponseTime: "Ping: $TIMEms"
   averageResponseTimeTitle: Durchschnittlicher Ping
   sevelDayResponseTime: 7-Tage Ping
   responseTimeMs: Ping (ms)
   up: Online
   down: Offline
-  degraded: Schlecht
+  degraded: Beeinträchtigt
   ms: ms
   loading: Lädt
   navGitHub: GitHub
