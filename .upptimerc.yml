@@ -11,11 +11,13 @@ sites:
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/easy-wi.png
   - name: Homepage
     url: https://ballaual.de/
-    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ballaualde.jpg
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/homepage.png
   - name: Rspamd
     url: https://ballaual.de/rspamd/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/rspamd.png
   - name: phpMyAdmin
     url: https://ballaual.de/phpmyadmin/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/phpmyadmin.png
   - name: Ark Server
     check: "tcp-ping"
     url: 88.198.15.44
