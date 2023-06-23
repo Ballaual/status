@@ -5,8 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Froxlor
     url: https://froxlor.ballaual.de/
-  #- name: Homepage
-   # url: https://ballaual.de/
+  - name: Homepage
+    url: https://ballaual.de/
   - name: Easy-Wi
     url: https://ew.ballaual.de/
   - name: Ark Server
@@ -25,8 +25,8 @@ sites:
     port: 10011
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
     
-assignees:
-  - Ballaual
+#assignees:
+#  - Ballaual
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
