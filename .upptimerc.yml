@@ -5,10 +5,17 @@ repo: status # The name of this repository
 sites:
   - name: Froxlor
     url: https://froxlor.ballaual.de/
-  - name: Homepage
-    url: https://ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png
   - name: Easy-Wi
     url: https://ew.ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/easy-wi.png
+  - name: Homepage
+    url: https://ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ballaualde.jpg
+  - name: Rspamd
+    url: https://ballaual.de/rspamd/
+  - name: phpMyAdmin
+    url: https://ballaual.de/phpmyadmin/
   - name: Ark Server
     check: "tcp-ping"
     url: 88.198.15.44
