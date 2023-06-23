@@ -52,8 +52,10 @@ status-website:
       href: https://status.ballaual.de
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      target: _blank
     - title: Kontakt
       href: https://discord.com/users/475642657490599937
+      target: _blank
 
 i18n:
   activeIncidents: Aktuelle Ereignisse
