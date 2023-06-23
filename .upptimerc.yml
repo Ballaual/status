@@ -45,8 +45,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Ballaual/status/master/assets/icon.svg
   name: Status
   theme: night
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Informationen:**
+  introMessage: Zur Zeit kann aufgrund eines fehlerhaften Update zu Einschränkungen bei der Nutzung des Discord Bots kommen. Insbesondere der Musik Bot ist hiervon betroffen. Der /play Command steht bis auf weiteres nicht zur Verfügung.
   navbar:
     - title: Status
       href: https://status.ballaual.de
