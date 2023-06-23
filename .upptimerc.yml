@@ -57,13 +57,13 @@ i18n:
   incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Auf GitHub anzeigen
   incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
-  incidentBack: ← Zurück zu allen Ereignissen
-  pastIncidents: Vergangene Ereignisse
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  incidentBack: ← Zurück zu allen Ereginissen
+  pastIncidents: Behobene Ereignisse
+  pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Kommentaren
   liveStatus: Live Status
-  overallUptime: "⌀ Online: $UPTIME"
+  overallUptime: "Durchschn. Online: $UPTIME"
   overallUptimeTitle: Durchschnittlich Online
-  averageResponseTime: "⌀ Ping: $TIMEms"
+  averageResponseTime: "Durchschn. Ping: $TIMEms"
   averageResponseTimeTitle: Durchschnittlicher Ping
   sevelDayResponseTime: 7-Tage Ping
   responseTimeMs: Ping (ms)
@@ -91,7 +91,7 @@ i18n:
   errorText: You can try again in a few moments.
   errorHome: Go to the homepage
   pastScheduledMaintenance: Vergangene planmäßige Wartungsarbeiten
-  scheduledMaintenance: Planmäßige Wartungsarbeiten
+  scheduledMaintenance: Geplante Wartungsarbeiten
   scheduledMaintenanceSummaryStarted: Begonnen am $DATE für $DURATION Minuten
   scheduledMaintenanceSummaryStarts: Beginnt am $DATE für voraussichtlich $DURATION Minuten
   startedAt: Begonnen am
