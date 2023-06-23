@@ -45,7 +45,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Ballaual/status/master/assets/icon.svg
   name: Status
   theme: night
-  introTitle: "**Informationen:**
+  introTitle: **Informationen:**
   introMessage: Zur Zeit kann aufgrund eines fehlerhaften Update zu Einschränkungen bei der Nutzung des Discord Bots kommen. Insbesondere der Musik Bot ist hiervon betroffen. Der /play Command steht bis auf weiteres nicht zur Verfügung.
   navbar:
     - title: Status
