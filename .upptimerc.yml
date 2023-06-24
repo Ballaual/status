@@ -103,7 +103,7 @@ i18n:
   errorIntro: An error occurred in trying to get the latest status details.
   errorText: You can try again in a few moments.
   errorHome: Go to the homepage
-  pastScheduledMaintenance: Vergangene planmäßige Wartungsarbeiten
+  pastScheduledMaintenance: Vergangene Wartungsarbeiten
   scheduledMaintenance: Geplante Wartungsarbeiten
   scheduledMaintenanceSummaryStarted: Begonnen am $DATE für voraussichtlich $DURATION Minuten
   scheduledMaintenanceSummaryStarts: Beginnt am $DATE für voraussichtlich $DURATION Minuten
