@@ -105,7 +105,7 @@ i18n:
   errorHome: Go to the homepage
   pastScheduledMaintenance: Vergangene planmäßige Wartungsarbeiten
   scheduledMaintenance: Geplante Wartungsarbeiten
-  scheduledMaintenanceSummaryStarted: Begonnen am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarted: Begonnen am $DATE für voraussichtlich $DURATION Minuten
   scheduledMaintenanceSummaryStarts: Beginnt am $DATE für voraussichtlich $DURATION Minuten
   startedAt: Begonnen am
   startsAt: Beginnt am
