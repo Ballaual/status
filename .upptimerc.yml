@@ -71,7 +71,7 @@ i18n:
   incidentViewOnGitHub: Auf GitHub anzeigen
   incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Ereginissen
-  pastIncidents: Behobene Ereignisse
+  pastIncidents: Vergangene Ereignisse
   pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Kommentaren
   liveStatus: Live Status
   overallUptime: "Online: $UPTIME"
@@ -80,9 +80,9 @@ i18n:
   averageResponseTimeTitle: Durchschnittlicher Ping
   sevelDayResponseTime: 7-Tage Ping
   responseTimeMs: Ping (ms)
-  up: Online
-  down: Offline
-  degraded: Beeinträchtigt
+  # up: Online
+  # down: Offline
+  # degraded: Beeinträchtigt
   ms: ms
   loading: Lädt
   navGitHub: GitHub
