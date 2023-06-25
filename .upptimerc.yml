@@ -80,9 +80,9 @@ i18n:
   averageResponseTimeTitle: Durchschnittlicher Ping
   sevelDayResponseTime: 7-Tage Ping
   responseTimeMs: Ping (ms)
-  # up: Online
-  # down: Offline
-  # degraded: Beeinträchtigt
+  up: Online
+  down: Offline
+  degraded: Beeinträchtigt
   ms: ms
   loading: Lädt
   navGitHub: GitHub
