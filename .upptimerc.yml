@@ -18,6 +18,9 @@ sites:
   - name: phpMyAdmin
     url: https://ballaual.de/phpmyadmin/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/phpmyadmin.png
+  - name: Roundcube
+    url: https://ballaual.de/mail/
+    # icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png
   - name: Ark Server
     check: "tcp-ping"
     url: 88.198.15.44
