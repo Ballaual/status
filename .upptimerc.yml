@@ -6,6 +6,8 @@ sites:
   - name: Froxlor
     url: https://froxlor.ballaual.de/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png
+  - name: Pterodactyl
+    url: https://gs.ballaual.de/
   - name: Easy-Wi
     url: https://ew.ballaual.de/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/easy-wi.png
