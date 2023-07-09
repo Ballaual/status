@@ -170,19 +170,19 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png",
     "slug": "teamspeak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 137,
-    "timeWeek": 122,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 123,
+    "timeDay": 125,
+    "timeWeek": 119,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-07-09": 0
+      "2023-07-09": 9
     }
   }
 ]
