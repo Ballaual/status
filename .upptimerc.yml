@@ -8,6 +8,7 @@ sites:
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png
   - name: Pterodactyl
     url: https://gs.ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/pterodactyl.png
   - name: Homepage
     url: https://ballaual.de/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/homepage.png
