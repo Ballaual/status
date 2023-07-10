@@ -25,6 +25,11 @@ sites:
     url: 88.198.15.44
     port: 7779
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
+  - name: Terraria Server
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 7878
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/terraria.png
   - name: Minecraft Server
     check: "tcp-ping"
     url: 88.198.15.44
