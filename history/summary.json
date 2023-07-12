@@ -112,9 +112,9 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png",
     "slug": "ark-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -124,6 +124,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2023-07-12": 0,
       "2023-07-03": 15,
       "2023-06-25": 5,
       "2023-06-24": 6
