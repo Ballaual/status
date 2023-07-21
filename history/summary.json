@@ -135,19 +135,19 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/terraria.png",
     "slug": "terraria-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 128,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 125,
+    "timeDay": 141,
+    "timeWeek": 132,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-07-21": 0
+      "2023-07-21": 48
     }
   },
   {
