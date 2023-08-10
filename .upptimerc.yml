@@ -54,7 +54,7 @@ status-website:
   name: Status
   theme: night
   introTitle: "**Informationen:**"
-  introMessage: Zur Zeit kann aufgrund eines fehlerhaften Update zu Einschränkungen bei der Nutzung des Discord Bots kommen. Insbesondere der Musik Bot ist hiervon betroffen. Der /play Command steht bis auf weiteres nicht zur Verfügung.
+  introMessage: ---
   navbar:
     - title: Status
       href: https://status.ballaual.de
