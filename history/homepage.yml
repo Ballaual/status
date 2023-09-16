@@ -1,7 +1,7 @@
 url: https://ballaual.de/
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2023-09-15T23:12:25.047Z
+status: down
+code: 503
+responseTime: 638
+lastUpdated: 2023-09-16T22:53:30.323Z
 startTime: 2023-06-23T08:17:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
