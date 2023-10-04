@@ -26,24 +26,34 @@ sites:
     url: 88.198.15.44
     port: 7779
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
-  - name: Terraria Server
-    check: "tcp-ping"
-    url: 88.198.15.44
-    port: 7878
-    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/terraria.png
   - name: Minecraft Server
     check: "tcp-ping"
     url: 88.198.15.44
     port: 25565
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png
+  - name: Icarus Server
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 17778
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/icarus.png
+  - name: Counter-Strike Server
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 27015
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/counter-strike.png
+  - name: Subnautica Server
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 11000
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/subnautica.png
   - name: Teamspeak
     check: "tcp-ping"
     url: 88.198.15.44
     port: 10011
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
     
-#assignees:
-#  - Ballaual
+assignees:
+  - Ballaual
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
