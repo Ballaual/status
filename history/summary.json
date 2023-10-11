@@ -152,11 +152,11 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/counter-strike.png",
     "slug": "counter-strike-server",
     "status": "up",
-    "uptime": "2.59%",
-    "uptimeDay": "19.09%",
-    "uptimeWeek": "2.73%",
-    "uptimeMonth": "2.59%",
-    "uptimeYear": "2.59%",
+    "uptime": "3.45%",
+    "uptimeDay": "25.48%",
+    "uptimeWeek": "3.64%",
+    "uptimeMonth": "3.45%",
+    "uptimeYear": "3.45%",
     "time": 106,
     "timeDay": 106,
     "timeWeek": 106,
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 1017,
+      "2023-10-11": 1109,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -241,9 +241,9 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png",
     "slug": "teamspeak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -253,6 +253,7 @@
     "timeMonth": 125,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2023-09-04": 45
     }
   }
