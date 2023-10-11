@@ -29,7 +29,7 @@ sites:
   - name: Counter-Strike Server
     check: "tcp-ping"
     url: 88.198.15.44
-    port: 27016
+    port: 27015
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/counter-strike.png
   - name: Icarus Server
     check: "tcp-ping"
