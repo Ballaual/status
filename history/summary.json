@@ -84,7 +84,7 @@
     "slug": "php-my-admin",
     "status": "up",
     "uptime": "89.08%",
-    "uptimeDay": "71.80%",
+    "uptimeDay": "71.81%",
     "uptimeWeek": "10.26%",
     "uptimeMonth": "27.58%",
     "uptimeYear": "89.08%",
@@ -567,18 +567,18 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png",
     "slug": "palworld-server",
     "status": "down",
-    "uptime": "2.06%",
-    "uptimeDay": "2.06%",
-    "uptimeWeek": "2.06%",
-    "uptimeMonth": "2.06%",
-    "uptimeYear": "2.06%",
+    "uptime": "1.70%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "1.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-04": 1
+      "2024-02-04": 2
     }
   },
   {
