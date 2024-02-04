@@ -64,7 +64,7 @@ status-website:
   name: Status
   theme: night
   introTitle: "**Informationen:**"
-  introMessage: ---
+  introMessage: Die angezeigten Ping-Zeiten sind zu ignorieren.
   navbar:
     - title: Status
       href: https://status.ballaual.de
