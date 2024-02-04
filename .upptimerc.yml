@@ -44,7 +44,7 @@ sites:
   - name: Palworld
     check: "tcp-ping"
     url: 88.198.15.44
-    port: 8211
+    port: 25575
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png
   - name: Teamspeak
     check: "tcp-ping"
