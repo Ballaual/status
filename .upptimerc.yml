@@ -49,7 +49,7 @@ sites:
   - name: Teamspeak
     check: "tcp-ping"
     url: 88.198.15.44
-    port: 10011
+    port: 9987
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
     
 assignees:
