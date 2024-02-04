@@ -21,12 +21,12 @@ sites:
   - name: Roundcube
     url: https://ballaual.de/mail/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png
-  - name: ARK
+  - name: Ark
     check: "tcp-ping"
     url: 88.198.15.44
     port: 7779
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
-  - name: CS2
+  - name: Counter-strike
     check: "tcp-ping"
     url: 88.198.15.44
     port: 27015
@@ -47,7 +47,7 @@ sites:
     port: 25575
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png
   - name: Teamspeak
-    check: "tcp-ping"
+    check: "udp-ping"
     url: 88.198.15.44
     port: 9987
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
