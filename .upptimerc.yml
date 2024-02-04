@@ -21,7 +21,7 @@ sites:
   - name: Roundcube
     url: https://ballaual.de/mail/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png
-  - name: ARK: Survival Evolved
+  - name: Ark: Survival Evolved
     check: "tcp-ping"
     url: 88.198.15.44
     port: 7779
