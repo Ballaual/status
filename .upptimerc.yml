@@ -21,31 +21,31 @@ sites:
   - name: Roundcube
     url: https://ballaual.de/mail/
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png
-  - name: Ark Server
+  - name: ARK: Survival Evolved
     check: "tcp-ping"
     url: 88.198.15.44
     port: 7779
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
-  - name: Counter-Strike Server
+  - name: Counter-Strike 2
     check: "tcp-ping"
     url: 88.198.15.44
     port: 27015
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/counter-strike.png
-  - name: Icarus Server
+  - name: Icarus
     check: "tcp-ping"
     url: 88.198.15.44
     port: 17777
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/icarus.png
-  - name: Minecraft Server
+  - name: Minecraft Paper
     check: "tcp-ping"
     url: 88.198.15.44
     port: 25565
     icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png
-  - name: Subnautica Server
+  - name: Palworld
     check: "tcp-ping"
     url: 88.198.15.44
-    port: 11000
-    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/subnautica.png
+    port: 8211
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png
   - name: Teamspeak
     check: "tcp-ping"
     url: 88.198.15.44
