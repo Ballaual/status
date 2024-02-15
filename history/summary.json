@@ -6,9 +6,9 @@
     "slug": "froxlor",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 680,
     "timeDay": 579,
@@ -16,7 +16,7 @@
     "timeMonth": 667,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 14
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "pterodactyl",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 507,
@@ -36,7 +36,7 @@
     "timeMonth": 700,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 14
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.88%",
     "time": 908,
     "timeDay": 574,
@@ -56,7 +56,7 @@
     "timeMonth": 653,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-02-15": 0,
+      "2024-02-15": 14,
       "2023-10-24": 17,
       "2023-09-19": 866,
       "2023-09-18": 1440,
@@ -71,9 +71,9 @@
     "slug": "rspamd",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 221,
@@ -81,7 +81,7 @@
     "timeMonth": 238,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 14
     }
   },
   {
@@ -90,18 +90,18 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/phpmyadmin.png",
     "slug": "php-my-admin",
     "status": "down",
-    "uptime": "89.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptime": "89.60%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "38.13%",
-    "uptimeYear": "89.61%",
+    "uptimeYear": "89.60%",
     "time": 188,
     "timeDay": 242,
     "timeWeek": 169,
     "timeMonth": 138,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-02-15": 0,
+      "2024-02-15": 14,
       "2024-02-03": 1071,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -141,7 +141,7 @@
     "uptime": "89.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.74%",
+    "uptimeMonth": "35.77%",
     "uptimeYear": "89.18%",
     "time": 134,
     "timeDay": 110,
@@ -259,9 +259,9 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png",
     "slug": "palworld",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,7 +270,9 @@
     "timeWeek": 117,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   },
   {
     "name": "Teamspeak",
@@ -279,8 +281,8 @@
     "slug": "teamspeak",
     "status": "down",
     "uptime": "90.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "35.74%",
     "uptimeYear": "90.41%",
     "time": 148,
@@ -289,7 +291,7 @@
     "timeMonth": 680,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-02-15": 0,
+      "2024-02-15": 14,
       "2024-02-04": 677,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
