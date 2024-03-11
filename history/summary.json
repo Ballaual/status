@@ -260,18 +260,17 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png",
     "slug": "palworld",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.09%",
     "time": 124,
     "timeDay": 109,
     "timeWeek": 125,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-03-10": 13,
       "2024-03-09": 16,
       "2024-02-27": 449
     }
