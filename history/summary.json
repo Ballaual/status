@@ -4,10 +4,10 @@
     "url": "https://froxlor.ballaual.de/",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png",
     "slug": "froxlor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 677,
@@ -16,7 +16,7 @@
     "timeMonth": 930,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-08-24": 33,
+      "2024-08-24": 34,
       "2024-02-15": 21
     }
   },
@@ -27,9 +27,9 @@
     "slug": "pterodactyl",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 696,
     "timeDay": 3356,
@@ -37,7 +37,7 @@
     "timeMonth": 886,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-08-24": 25,
+      "2024-08-24": 34,
       "2024-02-15": 21
     }
   },
@@ -265,7 +265,7 @@
     "uptime": "83.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.15%",
+    "uptimeMonth": "62.13%",
     "uptimeYear": "83.42%",
     "time": 116,
     "timeDay": 0,
@@ -273,7 +273,7 @@
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-08-24": 1110,
+      "2024-08-24": 1119,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
