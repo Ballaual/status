@@ -25,11 +25,11 @@
     "url": "https://gs.ballaual.de/",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/pterodactyl.png",
     "slug": "pterodactyl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 725,
     "timeDay": 5173,
@@ -37,7 +37,7 @@
     "timeMonth": 1256,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-08-24": 55,
+      "2024-08-24": 45,
       "2024-02-15": 21
     }
   },
@@ -266,7 +266,7 @@
     "uptime": "83.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.88%",
+    "uptimeMonth": "61.83%",
     "uptimeYear": "83.38%",
     "time": 116,
     "timeDay": 0,
@@ -274,7 +274,7 @@
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-08-24": 1229,
+      "2024-08-24": 1247,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
