@@ -4,11 +4,11 @@
     "url": "https://froxlor.ballaual.de/",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png",
     "slug": "froxlor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 713,
     "timeDay": 4349,
@@ -16,7 +16,7 @@
     "timeMonth": 1378,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-08-24": 84,
+      "2024-08-24": 74,
       "2024-02-15": 21
     }
   },
@@ -266,7 +266,7 @@
     "uptime": "83.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.69%",
+    "uptimeMonth": "61.67%",
     "uptimeYear": "83.36%",
     "time": 116,
     "timeDay": 0,
@@ -274,7 +274,7 @@
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-08-24": 1309,
+      "2024-08-24": 1321,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
