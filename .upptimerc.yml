@@ -3,54 +3,54 @@ owner: Ballaual # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  #- name: Froxlor
-  #  url: https://froxlor.ballaual.de/
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png
-  #- name: Pterodactyl
-  #  url: https://gs.ballaual.de/
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/pterodactyl.png
-  #- name: Homepage
-  #  url: https://ballaual.de/
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/homepage.png
-  #- name: Rspamd
-  #  url: https://ballaual.de/rspamd/
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/rspamd.png
-  #- name: phpMyAdmin
-  #  url: https://ballaual.de/phpmyadmin/
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/phpmyadmin.png
-  #- name: Roundcube
-  #  url: https://ballaual.de/mail/
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png
-  #- name: Ark
-  #  check: "tcp-ping"
-  #  url: 88.198.15.44
-  #  port: 7779
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
-  #- name: Counter-strike
-  #  check: "tcp-ping"
-  #  url: 88.198.15.44
-  #  port: 27015
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/counter-strike.png
-  #- name: Icarus
-  #  check: "tcp-ping"
-  #  url: 88.198.15.44
-  #  port: 17777
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/icarus.png
-  #- name: Minecraft
-  #  check: "tcp-ping"
-  #  url: 88.198.15.44
-  #  port: 25565
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png
-  #- name: Palworld
-  #  check: "tcp-ping"
-  #  url: 88.198.15.44
-  #  port: 25575
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png
-  #- name: Teamspeak
-  #  check: "udp-ping"
-  #  url: 88.198.15.44
-  #  port: 9987
-  #  icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
+  - name: Froxlor
+    url: https://froxlor.ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png
+  - name: Pterodactyl
+    url: https://gs.ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/pterodactyl.png
+  - name: Homepage
+    url: https://ballaual.de/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/homepage.png
+  - name: Rspamd
+    url: https://ballaual.de/rspamd/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/rspamd.png
+  - name: phpMyAdmin
+    url: https://ballaual.de/phpmyadmin/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/phpmyadmin.png
+  - name: Roundcube
+    url: https://ballaual.de/mail/
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png
+  - name: Ark
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 7779
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png
+  - name: Counter-strike
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 27015
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/counter-strike.png
+  - name: Icarus
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 17777
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/icarus.png
+  - name: Minecraft
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 25565
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png
+  - name: Palworld
+    check: "tcp-ping"
+    url: 88.198.15.44
+    port: 25575
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png
+  - name: Teamspeak
+    check: "udp-ping"
+    url: 88.198.15.44
+    port: 9987
+    icon: https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png
     
 assignees:
   - Ballaual
