@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png",
     "slug": "froxlor",
     "status": "up",
-    "uptime": "85.91%",
+    "uptime": "85.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -394,9 +394,9 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png",
     "slug": "minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -405,7 +405,9 @@
     "timeWeek": 125,
     "timeMonth": 112,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "Palworld",
@@ -413,18 +415,18 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png",
     "slug": "palworld",
     "status": "down",
-    "uptime": "49.99%",
+    "uptime": "49.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.99%",
+    "uptimeYear": "49.97%",
     "time": 116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-01-07": 44,
+      "2025-01-07": 301,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
