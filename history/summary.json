@@ -295,9 +295,9 @@
     "url": "88.198.15.44",
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png",
     "slug": "ark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -306,7 +306,9 @@
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 0
+    }
   },
   {
     "name": "Counter-strike",
@@ -354,14 +356,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.52%",
+    "uptimeYear": "60.51%",
     "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-06-27": 1312,
+      "2025-06-27": 1345,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -528,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-27": 1312,
+      "2025-06-27": 1345,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
