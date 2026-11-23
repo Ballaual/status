@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/froxlor.png",
     "slug": "froxlor",
     "status": "down",
-    "uptime": "81.07%",
+    "uptime": "81.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.08%",
+    "uptimeYear": "56.80%",
     "time": 696,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 688,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -182,18 +183,19 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/pterodactyl.png",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "70.13%",
+    "uptime": "70.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1212,
+    "time": 1211,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -556,8 +558,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -566,18 +567,17 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/homepage.png",
     "slug": "homepage",
     "status": "down",
-    "uptime": "80.92%",
+    "uptime": "80.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "12.25%",
     "uptimeMonth": "0.91%",
-    "uptimeYear": "57.30%",
+    "uptimeYear": "57.04%",
     "time": 625,
     "timeDay": 0,
     "timeWeek": 1201,
     "timeMonth": 1201,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-11-23": 83,
       "2026-11-19": 939,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -733,7 +733,8 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 684,
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 706
     }
@@ -744,7 +745,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/rspamd.png",
     "slug": "rspamd",
     "status": "down",
-    "uptime": "70.52%",
+    "uptime": "70.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -753,9 +754,10 @@
     "timeDay": 0,
     "timeWeek": 1374,
     "timeMonth": 1374,
-    "timeYear": 175,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1118,8 +1120,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -1128,7 +1129,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/phpmyadmin.png",
     "slug": "php-my-admin",
     "status": "down",
-    "uptime": "68.54%",
+    "uptime": "68.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1139,7 +1140,8 @@
     "timeMonth": 1373,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1502,8 +1504,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -1512,7 +1513,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/roundcube.png",
     "slug": "roundcube",
     "status": "down",
-    "uptime": "68.42%",
+    "uptime": "68.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1523,7 +1524,8 @@
     "timeMonth": 1369,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1886,8 +1888,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -1896,7 +1897,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/ark.png",
     "slug": "ark",
     "status": "down",
-    "uptime": "49.87%",
+    "uptime": "49.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1907,7 +1908,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -2270,8 +2272,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -2316,7 +2317,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/minecraft.png",
     "slug": "minecraft",
     "status": "down",
-    "uptime": "35.76%",
+    "uptime": "35.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2327,7 +2328,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -2690,8 +2692,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -2700,7 +2701,7 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/palworld.png",
     "slug": "palworld",
     "status": "down",
-    "uptime": "16.54%",
+    "uptime": "16.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2711,7 +2712,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -3074,8 +3076,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -3084,18 +3085,19 @@
     "icon": "https://raw.githubusercontent.com/Ballaual/status/master/assets/teamspeak.png",
     "slug": "teamspeak",
     "status": "down",
-    "uptime": "68.71%",
+    "uptime": "68.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 598,
+    "time": 596,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2026-11-22": 236,
+      "2026-11-23": 277,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -3458,8 +3460,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   }
 ]
